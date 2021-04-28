@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.exe
+C:\Users\Yasmin\source\repos\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.deps.json
+C:\Users\Yasmin\source\repos\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.json
+C:\Users\Yasmin\source\repos\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\Yasmin\source\repos\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.pdb
+C:\Users\Yasmin\source\repos\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\Yasmin\source\repos\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.pdb
+C:\Users\Yasmin\source\repos\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.genruntimeconfig.cache
